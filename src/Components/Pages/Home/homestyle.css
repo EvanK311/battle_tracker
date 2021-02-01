@@ -1,12 +1,17 @@
-.body {
+body {
     background-color: olive;
 }
 
 .container {
+   margin-top: 15vh;
     background-color: burlywood;
 
 }
 
 .searchBox {
     background-color: chocolate;
+}
+
+.box {
+    height: 45vw;
 }
